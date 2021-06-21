@@ -1,1 +1,1 @@
-worker: python parsingPost.py > Procfile
+worker: python telegram_bot.py
